@@ -8,7 +8,7 @@ test Patch_deform_samples file
 
 ## demo vid
 https://miro.com/app/board/uXjVM2iuRv4=/?share_link_id=444239530165
-Presentation link for 
+Presentation link for various patchdeform usages
 
 ## PatchBlend hdalc
 mesh needs to have non-overlapping UVs in the vertex attribute (I dunno how to make it show an error to enforce it on meshes that have UV on points)
