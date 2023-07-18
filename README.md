@@ -1,6 +1,14 @@
 # HoudiniMeshPatchDeformers
 simple houdini node stack setups for character blendshapes. useful for bodies and face meshes
 
+## simple install
+add the 2 HDA files to your "C:\Users\username\Documents\houdini19.5\OTLS" folder
+I haven't tested any other versions except 19.5.
+test Patch_deform_samples file
+
+## demo vid
+https://miro.com/app/board/uXjVM2iuRv4=/?share_link_id=444239530165
+Presentation link for 
 
 ## PatchBlend hdalc
 mesh needs to have non-overlapping UVs in the vertex attribute (I dunno how to make it show an error to enforce it on meshes that have UV on points)
